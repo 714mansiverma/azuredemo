@@ -1,0 +1,14 @@
+C:\Users\shree\source\repos\5handson\5handson\bin\Debug\netcoreapp2.1\5handson.deps.json
+C:\Users\shree\source\repos\5handson\5handson\bin\Debug\netcoreapp2.1\5handson.runtimeconfig.json
+C:\Users\shree\source\repos\5handson\5handson\bin\Debug\netcoreapp2.1\5handson.runtimeconfig.dev.json
+C:\Users\shree\source\repos\5handson\5handson\bin\Debug\netcoreapp2.1\5handson.dll
+C:\Users\shree\source\repos\5handson\5handson\obj\Debug\netcoreapp2.1\5handson.csprojAssemblyReference.cache
+C:\Users\shree\source\repos\5handson\5handson\obj\Debug\netcoreapp2.1\5handson.csproj.CoreCompileInputs.cache
+C:\Users\shree\source\repos\5handson\5handson\obj\Debug\netcoreapp2.1\5handson.RazorAssemblyInfo.cache
+C:\Users\shree\source\repos\5handson\5handson\obj\Debug\netcoreapp2.1\5handson.RazorAssemblyInfo.cs
+C:\Users\shree\source\repos\5handson\5handson\obj\Debug\netcoreapp2.1\5handson.AssemblyInfoInputs.cache
+C:\Users\shree\source\repos\5handson\5handson\obj\Debug\netcoreapp2.1\5handson.AssemblyInfo.cs
+C:\Users\shree\source\repos\5handson\5handson\obj\Debug\netcoreapp2.1\5handson.RazorTargetAssemblyInfo.cache
+C:\Users\shree\source\repos\5handson\5handson\bin\Debug\netcoreapp2.1\5handson.pdb
+C:\Users\shree\source\repos\5handson\5handson\obj\Debug\netcoreapp2.1\5handson.dll
+C:\Users\shree\source\repos\5handson\5handson\obj\Debug\netcoreapp2.1\5handson.pdb
