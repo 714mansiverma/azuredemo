@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="text-center">
+        <h1 class="display-4">Welcome to Cors Request Page.This Page Request weather forecast data from another application's api</h1>
+       @* <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>*@
+        
+        <button id="btnGetEmployee">Get Weather Data</button>
+        <pre id="preOutput"></pre>
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script>
+        $(function () {
+            var get = function () {
+                var url = "https://localhost:44327/weatherforecast";
+                $.get(url).always(showResponse);
+                return false;
+
+            };
+            var showResponse = function (object) {
+                $("#preOutput").text(JSON.stringify(object, null, 4));
+            };
+            $("#btnGetEmployee").click(get);
+        });
+        </script>
+    </div>
